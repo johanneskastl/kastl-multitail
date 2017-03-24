@@ -12,5 +12,6 @@
 #
 class multitail {
 
+  include multitail::install
 
 }
